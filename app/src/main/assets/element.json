@@ -1,0 +1,804 @@
+[
+  {
+    "keyword": "arbitralny",
+    "description": "Narzucający bezwględnie swoje zdanie"
+  },
+  {
+    "keyword": "utracjusz",
+    "description": "Osoba łatwo wydająca pieniądze"
+  },
+  {
+    "keyword": "egalitaryzm",
+    "description": "Ustrój społeczny, w którym istnieje reguła całkowitej równości wszystkich ludzi"
+  },
+  {
+    "keyword": "eudajmonizm",
+    "description": "Pogląd etyczny, według którego ostatecznym i najważniejszym celem każdego człowieka jest osiągnięcie szczęścia"
+  },
+  {
+    "keyword": "mitrężyć",
+    "description": "Marnować czas na próżno, zwlekać z czymś"
+  },
+  {
+    "keyword": "apodyktyczny",
+    "description": "Nie znoszący sprzeciwu i narzucający wszystkim swoją wolę"
+  },
+  {
+    "keyword": "Abnegat",
+    "description": "Człowiek nie dbający o siebie, zwłaszcza o swój wygląd."
+  },
+  {
+    "keyword": "Abominacja",
+    "description": "Wstręt; obrzydzenie; odraza; awersja."
+  },
+  {
+    "keyword": "Abordaż",
+    "description": "sposób walki morskiej polegający na sczepieniu się dwóch okrętów za pomocą haków abordażowych i lin lub przybiciu jednego okrętu do drugiego."
+  },
+  {
+    "keyword": "Absencja",
+    "description": "Nieobecność w danym miejscu, np. absencja szkolna lub pracownicza."
+  },
+  {
+    "keyword": "Abstrahować",
+    "description": "Pomijać coś w rozmowie na rzecz czegoś ważniejszego, świadomie czegoś nie uwzględniać."
+  },
+  {
+    "keyword": "Abstynencja",
+    "description": "Świadome powstrzymywanie się od czegoś, przede wszystkim od używania alkoholu, tytoniu, narkotyków itp."
+  },
+  {
+    "keyword": "Adaptacja",
+    "description": "Przystosowanie czegoś do innego użycia niż było przeznaczone."
+  },
+  {
+    "keyword": "Adaptacja filmowa",
+    "description": "Nie tak dokładne opracowanie dzieła literackiego w wersji filmowej, jak jest to w przypadku ekranizacji. W tej formie niektóre elementy mogą odbiegać od oryginału."
+  },
+  {
+    "keyword": "Afirmacja",
+    "description": "Pochwala, aprobata, potwierdzenie, uznanie czegoś."
+  },
+  {
+    "keyword": "Afront",
+    "description": "Zniewaga, obelga."
+  },
+  {
+    "keyword": "Albowiem",
+    "description": "Spójnik dołączający wyjaśnienie do wcześniejszej informacji."
+  },
+  {
+    "keyword": "Alegoria",
+    "description": "Przedstawienie pojęć, idei, wydarzeń, przy pomocy obrazu artystycznego o charakterze przenośnym, w przeciwieństwie do symbolu (wieloznacznego) jest jednoznaczna."
+  },
+  {
+    "keyword": "Alter ego",
+    "description": "Jest drugą tożsamością, drugą osobowością wewnątrz tej samej osoby."
+  },
+  {
+    "keyword": "Ambiwalentny",
+    "description": "Przeciwstawny, sprzeczny."
+  },
+  {
+    "keyword": "Amfibia",
+    "description": "Pojazd mechaniczny przystosowany do poruszania się zarówno po lądzie, jak i po wodzie."
+  },
+  {
+    "keyword": "Anafora",
+    "description": "Figura stylistyczna polegająca na rozpoczynaniu kolejnych wersów od tego samego wyrazu lub grupy wyrazów."
+  },
+  {
+    "keyword": "Anekumena",
+    "description": "Obszar niezamieszkany na stałe przez człowieka."
+  },
+  {
+    "keyword": "Anomalia",
+    "description": "Odchylenie od normy; nieprawidłowość."
+  },
+  {
+    "keyword": "Antropomorfizm",
+    "description": "Książkowo: przypisywanie cech ludzkich przyrodzie żywej i martwej (zjawiskom przyrody, zwierzętom, roślinom i przedmiotom), np. gwiazdy mówią mi..., nawet niebo płacze; antropomorfizacja, uczłowieczenie;"
+  },
+  {
+    "keyword": "Antynomia",
+    "description": "Sprzeczność między dwoma wykluczającymi się twierdzeniami, z których każde wydaje się prawdziwe i uzasadnione."
+  },
+  {
+    "keyword": "Aparycja",
+    "description": "wygląd zewnętrzny, prezencja."
+  },
+  {
+    "keyword": "Aplauz",
+    "description": "Ekspresja zadowolenia lub przyznania racji, otrzymywana głównie poprzez klaskanie i wytwarzania hałasu przez grupę ludzi."
+  },
+  {
+    "keyword": "Apopleksja",
+    "description": "Uszkodzenie tkanki mózgowej spowodowane niedokrwieniem pewnego obszaru mózgu lub pęknięciem naczynia krwionośnego (wylew); udar mózgu."
+  },
+  {
+    "keyword": "Aprioryczne",
+    "description": "Oparty na z góry przyjętych założeniach, zależny nie od doświadczenia, lecz od rozumu (np. sądy aprioryczne)."
+  },
+  {
+    "keyword": "Aprobata",
+    "description": "Zgoda na coś, uznanie czegoś za dobre, prawidłowe; akceptacja."
+  },
+  {
+    "keyword": "Arachnofobia",
+    "description": "Chorobliwy lęk przed pająkami."
+  },
+  {
+    "keyword": "Archaizm",
+    "description": "Wyraz, zwrot bądź konstrukcja składniowa, które już wyszły z użycia."
+  },
+  {
+    "keyword": "Arkany",
+    "description": "Tajemnice, sekretna wiedza."
+  },
+  {
+    "keyword": "Asertywność",
+    "description": "Jest to umiejętność wypowiadania swoich racji i obrony swojego stanowiska wobec pewnej sprawy.Mówiąc krótko, jest to zdolność mówienia \"NIE\" i wypowiadania bez żadnego leku swoich opinii."
+  },
+  {
+    "keyword": "Aspołeczny",
+    "description": "Nieangażujący się w sprawy innych ludzi i nieuczestniczący w życiu społecznym."
+  },
+  {
+    "keyword": "Atawizm",
+    "description": "Uwstecznienie... powrót do pierwotnych instynktów."
+  },
+  {
+    "keyword": "Atrybucja",
+    "description": "Przypisywanie czegoś komuś lub czemuś. W psychologii pojęcie atrybucji odnosi się do tego jak ludzie wyjaśniają przyczyny swojego bądź cudzego zachowania, tzw. naiwne teorie przyczynowości."
+  },
+  {
+    "keyword": "Autobiografia",
+    "description": "Opis własnego życia w formie literackiej lub filmowej."
+  },
+  {
+    "keyword": "Awersja",
+    "description": "niechęć, odraza, abominacja."
+  },
+  {
+    "keyword": "Bękart",
+    "description": "Pogardliwie: dziecko ze związku pozamałżeńskiego; bastard."
+  },
+  {
+    "keyword": "Broczyć",
+    "description": "Wypływać (np. krew broczy z rany); broczyć krwią (juchą, posoką itp.), o kimś: krwawić."
+  },
+  {
+    "keyword": "Bynajmniej",
+    "description": "Wcale, zupełnie, ani trochę."
+  },
+  {
+    "keyword": "Charyzma",
+    "description": "Człowiek charyzmatyczny to taki, który ciągnie za sobą tłumy. Czego by nie powiedział ludzie to zrobią, i wcale nie wynika to z jego przewagi fizycznej. Potrafi przemówić do ludzi."
+  },
+  {
+    "keyword": "Choleryk",
+    "description": "Człowiek mający skłonności do niezadowolenia i agresji, bardzo impulsywny."
+  },
+  {
+    "keyword": "Decorum",
+    "description": "Zasady estetyki."
+  },
+  {
+    "keyword": "Dedukcja",
+    "description": "Metoda rozumowania polegająca na wyprowadzaniu logicznych wniosków z założeń uznanych za prawdziwe."
+  },
+  {
+    "keyword": "De facto",
+    "description": "[czytaj: de fakto] faktycznie, w rzeczywistości."
+  },
+  {
+    "keyword": "Dekadencja",
+    "description": "Upadek dotychczasowych wartości moralnych, społecznych lub kulturowych."
+  },
+  {
+    "keyword": "Dekapitacja",
+    "description": "Pozbawienie kogoś życia poprzez oddzielenie głowy od reszty ciała."
+  },
+  {
+    "keyword": "Demobilizacja",
+    "description": "Rozbrojenie."
+  },
+  {
+    "keyword": "Dewiacja (społeczna, seksualna)",
+    "description": "Odchylenie od reguł, postępowanie niezgodnie z normami."
+  },
+  {
+    "keyword": "Dychotomia",
+    "description": "Podział jakiejś całości na dwie różniące się zasadniczo części."
+  },
+  {
+    "keyword": "Dyktator",
+    "description": "Osoba posiadająca absolutną władzę w państwie, zwykle opierająca się na sile armii."
+  },
+  {
+    "keyword": "Dynastia – Ród, panujący dziedzicznie, tzn. syn obejmuje władzę po ojcu; w Polsce były dwie wielkie dynastie: Piastów i Jagiellonów; gdy tych ostatnich zabrakło, polskich królów wybierał sejm i taki wybór zwano elekcją."
+  },
+  {
+    "keyword": "Dyskurs",
+    "description": "Rozmowa, dyskusja."
+  },
+  {
+    "keyword": "Efemeryczny",
+    "description": "Złudny, szybko przemijający, krótkotrwały."
+  },
+  {
+    "keyword": "Egzaltować",
+    "description": "Egzaltować się, Wpadać w stan podniecenia, ogólnego zachwytu, zapalać się."
+  },
+  {
+    "keyword": "Egzekucja",
+    "description": "Wykonanie zasądzonej kary."
+  },
+  {
+    "keyword": "Egzekutywa",
+    "description": "możność, zdolność wykonywania czegoś, władza wykonawcza."
+  },
+  {
+    "keyword": "Egzemplifikacja",
+    "description": "Przykład ilustrujący; posługiwanie się przykładami, objaśnianie metodą przykładową."
+  },
+  {
+    "keyword": "Ekranizacja",
+    "description": "Dokładne opracowanie dzieła literackiego w wersji filmowej."
+  },
+  {
+    "keyword": "Ekspresja",
+    "description": "wyrazisty i sugestywny sposób wyrażania uczuć."
+  },
+  {
+    "keyword": "Ekumena",
+    "description": "Obszary kuli ziemskiej stale zamieszkane i wykorzystywane gospodarczo przez człowieka; pojęcie przeciwstawne anekumenie."
+  },
+  {
+    "keyword": "Emancypacja",
+    "description": "Wyzwolenie, uwolnienie się od zależności."
+  },
+  {
+    "keyword": "Empiryczny",
+    "description": "Oparty na doświadczeniu."
+  },
+  {
+    "keyword": "Empiryk",
+    "description": "Praktyk."
+  },
+  {
+    "keyword": "Empiryzm",
+    "description": "Teoriopoznawczy kierunek filoz. wywodzący (w przeciwieństwie do racjonalizmu) poznanie ludzkie wyłącznie z doświadczenia."
+  },
+  {
+    "keyword": "Epifora",
+    "description": "Figura stylistyczna polegająca na użyciu tego samego wyrazu lub grupy wyrazów na końcu kolejnych wersów; conversio; epistrofa."
+  },
+  {
+    "keyword": "Epopeja",
+    "description": "Obszerna powieść lub cykl powieści obrazujący przełomowe momenty w dziejach narodu."
+  },
+  {
+    "keyword": "Eskapizm",
+    "description": "Ucieczka, oderwanie się od rzeczywistości."
+  },
+  {
+    "keyword": "Eufemizm",
+    "description": "Wyraz, wyrażenie lub zwrot używany zamiast innego, którego chce się uniknąć ze względów obyczajowych, politycznych, religijnych",
+    "undefined": "Umrzeć; złagodzenie, określenie peryfrastyczne."
+  },
+  {
+    "keyword": "Fakultet",
+    "description": "Wydział wyższej uczelni, także zespół profesorów takiego wydział a także dodatkowe kierunki studiowane przez danego studenta."
+  },
+  {
+    "keyword": "Farmazon",
+    "description": "Głupstwo, bzdura, brednia."
+  },
+  {
+    "keyword": "Faszyzm",
+    "description": "Kierunek i ruch polityczny o charakterze totalitarnym i nacjonalistycznym."
+  },
+  {
+    "keyword": "Fellatio",
+    "description": "Jedna z postaci kontaktu oralno genitalnego, polegająca na pobudzaniu członka męskiego ustami lub językiem drugiej osoby."
+  },
+  {
+    "keyword": "Feminizm",
+    "description": "Ruch, którego głównym celem było prawne i społeczne równouprawnienie kobiet."
+  },
+  {
+    "keyword": "Filantropia",
+    "description": "Udzielanie bezinteresownej pomocy potrzebującym."
+  },
+  {
+    "keyword": "Filister",
+    "description": "Człowiek bez aspiracji, małostkowy, obojętny na dobro ogółu; drobnomieszczanin."
+  },
+  {
+    "keyword": "Finezja",
+    "description": "Subtelność, delikatność, wyrafinowanie."
+  },
+  {
+    "keyword": "Flegmatyk",
+    "description": "Człowiek opanowany, obojętny, powolny, spokojny."
+  },
+  {
+    "keyword": "Frakcja",
+    "description": "Odłam, ugrupowanie wewnątrz partii politycznej."
+  },
+  {
+    "keyword": "Frazesy",
+    "description": "Wyszukane określenia, zwroty bez głębszej treści."
+  },
+  {
+    "keyword": "Futurystyczne",
+    "description": "Mający nowoczesny wygląd."
+  },
+  {
+    "keyword": "Gałgan",
+    "description": "Zniszczony kawałek tkaniny."
+  },
+  {
+    "keyword": "Gołosłowny",
+    "description": "Ktoś, kto przedstawia fakty bez pokrycia. Osoba, która mówi o czymś czego nie jest w stanie potwierdzić. Nie posługuje się dowodami, używa wyłącznie słów."
+  },
+  {
+    "keyword": "Grubianin – Osoba źle wychowana, nietaktowna, gruboskórna."
+  },
+  {
+    "keyword": "Hermafrodyta",
+    "description": "Osoba wykazująca symptomy hermaforodytyczne, czyli posiadająca cechy obu płci, inaczej"
+  },
+  {
+    "keyword": "Hermetyczny",
+    "description": "Szczelnie zamknięty, odizolowany"
+  },
+  {
+    "keyword": "Heroizm",
+    "description": "zdolność dokonywania wielkich czynów przez bohaterów wyróżniających się wyjątkową świadomością swojej misji historycznej, często utożsamiany z męstwem."
+  },
+  {
+    "keyword": "Hipokryzja",
+    "description": "Fałszywość, dwulicowość, obłuda."
+  },
+  {
+    "keyword": "Hipoteza",
+    "description": "Przypuszczenie wysunięte dla objaśnienia jakiegoś zjawiska, wymagające sprawdzenia."
+  },
+  {
+    "keyword": "Histografia",
+    "description": "Piśmiennictwo historyczne odtwarzające przeszłość na podstawie źródeł ustnych i pisanych."
+  },
+  {
+    "keyword": "Hucpa",
+    "description": "Tupet, bezczelność."
+  },
+  {
+    "keyword": "Immanentny",
+    "description": "Właściwy czemuś z natury, nieodłącznie z czymś związany, niewynikający z działania czynnika zewnętrznego, np. immanentna cecha, immanentne prawo."
+  },
+  {
+    "keyword": "Imperializm",
+    "description": "Polityka zagraniczna państwa polegająca na rozciąganiu władzy lub kontroli na inne kraje."
+  },
+  {
+    "keyword": "Impotencja",
+    "description": "Niezdolność mężczyzny do odbycia stosunku płciowego; niemoc płciowa."
+  },
+  {
+    "keyword": "Inercja",
+    "description": "bezwładność, bierność."
+  },
+  {
+    "keyword": "Infantylny",
+    "description": "Dziecinny w pejoratywnym wydźwięku."
+  },
+  {
+    "keyword": "Inkaust",
+    "description": "dawniej atrament."
+  },
+  {
+    "keyword": "Intryga",
+    "description": "Podstępne działanie polegające na wzajemnym skłóceniu jakichś osób."
+  },
+  {
+    "keyword": "Jarosz",
+    "description": "Człowiek niejedzący mięsa, wegetarianin. Jarosz to też inna forma imienia Jarosław."
+  },
+  {
+    "keyword": "Kaligynefobia",
+    "description": "Lęk przed pięknymi kobietami."
+  },
+  {
+    "keyword": "Kantata",
+    "description": "wokalna niesceniczna forma muzyczna składająca się z wielu części."
+  },
+  {
+    "keyword": "Kapitalizm",
+    "description": "System społeczno gospodarczy opierający się na własności prywatnej, konkurencji i gospodarce rynkowej."
+  },
+  {
+    "keyword": "Kapitulacja",
+    "description": "Poddanie się."
+  },
+  {
+    "keyword": "Katharsis",
+    "description": "Uwolnienie od cierpienia, odreagowanie zablokowanego napięcia, stłumionych emocji, skrępowanych myśli i wyobrażeń."
+  },
+  {
+    "keyword": "Klaustrofobia",
+    "description": "Chorobliwy lęk przed ciasnymi, zamkniętymi pomieszczeniami."
+  },
+  {
+    "keyword": "Kognitywistyka",
+    "description": "dziedzina zajmująca się opisem działania ludzkiego umysłu."
+  },
+  {
+    "keyword": "Koherentny",
+    "description": "Spójny, zwarty."
+  },
+  {
+    "keyword": "Kolokwializm",
+    "description": "mowa potoczna, niedbałe traktowanie języka, brak dbałości o czystość literacką."
+  },
+  {
+    "keyword": "Kompetencja",
+    "description": "Zakres czyjejś wiedzy, umiejętności."
+  },
+  {
+    "keyword": "Kompromitacja",
+    "description": "Wystawienie siebie lub kogoś innego na wstyd, śmieszność lub utratę dobrej opinii; ośmieszenie, upokorzenie."
+  },
+  {
+    "keyword": "Konfabulacja",
+    "description": "Wspomnienie rzekome – pochodzący z łaciny termin oznaczający uzupełnianie brakujących wspomnień informacjami nieprawdziwymi, które możliwie dobrze pasują do całego logicznego ciągu wydarzeń."
+  },
+  {
+    "keyword": "Konformizm",
+    "description": "Postawa zgodna z obowiązującymi normami, wartościami i poglądami."
+  },
+  {
+    "keyword": "Konfuzja",
+    "description": "Zmieszanie, zakłopotanie."
+  },
+  {
+    "keyword": "Konsolidacja",
+    "description": "Zjednoczenie."
+  },
+  {
+    "keyword": "Konstatacja",
+    "description": "Stwierdzenie faktu, wniosek końcowy, podsumowanie."
+  },
+  {
+    "keyword": "Konterfekt",
+    "description": "Portret, wizerunek, obraz."
+  },
+  {
+    "keyword": "Konsumpcjonizm",
+    "description": "Nadmierne przywiązywanie wagi do zdobywania dóbr materialnych."
+  },
+  {
+    "keyword": "Korelacja",
+    "description": "Współzależność, wzajemne powiązanie."
+  },
+  {
+    "keyword": "Kurtuazja",
+    "description": "(z fr. courtoisie) uprzejmość, wyszukana grzeczność, galanteria, stosowny gest. W średniowieczu bardzo mocno związana z zasadami etykiety."
+  },
+  {
+    "keyword": "Kwintal",
+    "description": "Jednostka masy używana w rolnictwie, równa 100 kilogramom."
+  },
+  {
+    "keyword": "Lapidarny",
+    "description": "Nie zawierający wielu słów; zwięzły, treściwy."
+  },
+  {
+    "keyword": "Linearny",
+    "description": "Następujący w czasie, mający początek i koniec."
+  },
+  {
+    "keyword": "Lukratywny",
+    "description": "Czyli taki, który jest opłacalny, zyskowny np. lukratywny kontrakt. Przynoszący dobre korzyści, dochodowy."
+  },
+  {
+    "keyword": "Łajba",
+    "description": "Stara łódź."
+  },
+  {
+    "keyword": "Mańkut",
+    "description": "osoba leworęczna."
+  },
+  {
+    "keyword": "Mariaż",
+    "description": "złączenie, połączenie."
+  },
+  {
+    "keyword": "Masochizm",
+    "description": "Zboczenie polegające na doznawaniu przyjemności seksualnej pod wpływem bólu."
+  },
+  {
+    "keyword": "Masturbacja",
+    "description": "Podrażnianie własnych narządów płciowych w celu zaspokojenia potrzeb seksualnych; ipsacja, onanizm, onania, samogwałt."
+  },
+  {
+    "keyword": "Masztalerz",
+    "description": "Osoba specjalistycznie zajmująca się końmi; stajenny."
+  },
+  {
+    "keyword": "Melancholia",
+    "description": "(gr. μελαγχολια) to w języku potocznym zasmucenie związane ze wspomnieniami, stan lekkiego przygnębienia. W dawnym języku medycznym stosowano ten termin na określenie schorzenia psychicznego, które obecnie znane jest jako depresja. W literaturze pięknej występuje również pojęcie melancholijny oznaczające stan permanentnego smutku, nostalgii (np. postać Hamleta)."
+  },
+  {
+    "keyword": "Metafizyka",
+    "description": "Dział filozofii zajmujący się przedmiotami wykraczającymi poza doświadczenie i zmierzający do poznania \"istoty\" rzeczy; nauka o pierwszych zasadach bytu, to \"coś\", co jest ponad (meta)"
+  },
+  {
+    "keyword": "Metafora",
+    "description": "Figura stylistyczna polegająca na nietypowym połączeniu wyrazów, dzięki któremu przynajmniej jeden z nich uzyskuje nowe znaczenie; przenośnia."
+  },
+  {
+    "keyword": "Cunnilingus",
+    "description": "Seks oralny polegający na pobudzaniu ustami kobiecych narządów płciowych; cunnilingus."
+  },
+  {
+    "keyword": "Miraż",
+    "description": "zjawisko powstania pozornego obrazu odległego przedmiotu w wyniku różnych współczynników załamania światła."
+  },
+  {
+    "keyword": "Mizoginia",
+    "description": "Wstręt mężczyzn do kobiet; mizoginizm."
+  },
+  {
+    "keyword": "Mokasyny",
+    "description": "rodzaj obuwia, wykonany z wyprawionej naturalnymi metodami skóry jelenia, łosia, wapiti lub bizona."
+  },
+  {
+    "keyword": "Nihilizm",
+    "description": "Postawa filozoficzna, zakładająca beznadziejność wszystkich ludzkich poczynań, brak sensu życia i jakichkolwiek podstaw moralnych, na których można się oprzeć."
+  },
+  {
+    "keyword": "Nonkonformizm",
+    "description": "Sprzeciwianie się bezkrytycznemu uleganiu normom i opiniom obowiązującym w danym środowisku."
+  },
+  {
+    "keyword": "Nomenklatura",
+    "description": "Nazewnictwo."
+  },
+  {
+    "keyword": "Obstrukcja",
+    "description": "Zatwardzenie."
+  },
+  {
+    "keyword": "Odium",
+    "description": "Wstręt, odraza, nienawiść."
+  },
+  {
+    "keyword": "Oksymoron",
+    "description": "W językoznawstwie: przenośne zestawienie pojęć o przeciwstawnym, wykluczającym się wzajemnie znaczeniu, np. spieszyć się powoli, sucha woda; antylogia, epitet sprzeczny."
+  },
+  {
+    "keyword": "Ondulacja",
+    "description": "trwałe uczesanie faliste."
+  },
+  {
+    "keyword": "Oniryczność, oniryzm",
+    "description": "konwencja literacka polegająca na ukazaniu rzeczywistości na kształt snu."
+  },
+  {
+    "keyword": "Oscylować",
+    "description": "skłaniać się raz w jedną, raz w drugą stronę, wahać się "
+  },
+  {
+    "keyword": "Parafraza",
+    "description": "Przeróbka tekstu, która rozwija treść oryginału przy jednoczesnym zachowaniu znaczenia."
+  },
+  {
+    "keyword": "Paralela",
+    "description": "Zestawienie cech analogicznych w rzeczach porównywalnych."
+  },
+  {
+    "keyword": "Pejoratywny",
+    "description": "O wypowiedzi, która nacechowana jest negatywnie; krytyczny, negatywny."
+  },
+  {
+    "keyword": "Percepcja",
+    "description": "Złożony proces poznawczy, który prowadzi do odebrania przez człowieka jakichś zjawisk lub procesów, zachodzący wskutek działania określonych bodźców na narządy zmysłowe; postrzeganie."
+  },
+  {
+    "keyword": "Perturbacja",
+    "description": "Naruszenie ustalonego porządku, przekroczenie panujących gdzieś norm, zasad."
+  },
+  {
+    "keyword": "Peryfraza",
+    "description": "Zabieg stylistyczny polegający na zastąpieniu konkretnej nazwy czegoś przez charakterystykę, opis lub metaforę; omówienie."
+  },
+  {
+    "keyword": "Perypatetyk",
+    "description": "Człowiek, któremu chodzenie poprawia jakość i wydajność procesów myślowych."
+  },
+  {
+    "keyword": "Petting",
+    "description": "Pieszczoty erotyczne wywołujące orgazm bez stosunku płciowego."
+  },
+  {
+    "keyword": "Pogarda",
+    "description": "Stan uczuciowy będący mieszaniną braku szacunku i niechęci oraz poczuciu wyższości w stosunku do kogoś."
+  },
+  {
+    "keyword": "Polemizować",
+    "description": "Podejmować, prowadzić dyskusję, w której się sprzeciwia komuś."
+  },
+  {
+    "keyword": "Polimorfizm",
+    "description": "Wielopostaciowość."
+  },
+  {
+    "keyword": "Polucja",
+    "description": "Mimowolny wytrysk nasienia w czasie snu; zmaza nocna."
+  },
+  {
+    "keyword": "Ponoć",
+    "description": "Podobno, zdaje się."
+  },
+  {
+    "keyword": "Prestidigitator",
+    "description": "Iluzjonista."
+  },
+  {
+    "keyword": "Prokrastynacja",
+    "description": "Zwlekanie (z łac. procrastinatio – odroczenie, zwłoka). Określenie \"choroby\" XXI wieku, podczas której ludzie ciągle odkładają wszystko na później."
+  },
+  {
+    "keyword": "Promiskuizm",
+    "description": "Przypadkowe kontakty seksualne z często zmienianymi partnerami, pozbawione miłości."
+  },
+  {
+    "keyword": "Pytanie retoryczne",
+    "description": "Zwrot w postaci pytania, na które nie oczekuje się odpowiedzi, gdyż jest ona znana."
+  },
+  {
+    "keyword": "Rachityczny",
+    "description": "Lichy, słaby, wykrzywiony."
+  },
+  {
+    "keyword": "Racjonalny",
+    "description": "zgodny z rozumem, mający rozumowe podstawy, logiczny i rozsądny"
+  },
+  {
+    "keyword": "Rasizm",
+    "description": "Pogląd, ideologia oraz związane z nimi zachowania wynikające z rzekomej wyższości jednych ras człowieka nad innymi."
+  },
+  {
+    "keyword": "Rekultywacja",
+    "description": "Przywracanie wartości użytkowych i przyrodniczych terenom zdewastowanym."
+  },
+  {
+    "keyword": "Repatriacja",
+    "description": "Powrót do kraju ojczystego osób, które wskutek różnych przyczyn niezależnych od siebie znalazły się poza jego granicami. Dotyczy to np. jeńców wojennych, przesiedleńców."
+  },
+  {
+    "keyword": "Reprywatyzacja",
+    "description": "Proces polegający na zwrocie w prywatne ręce mienia przejętego przez państwo w drodze nacjonalizacji lub wywłaszczenia."
+  },
+  {
+    "keyword": "Rotacja",
+    "description": "Ruch wokół własnej osi; ruch obrotowy."
+  },
+  {
+    "keyword": "Roznegliżować",
+    "description": "Rozebrać się całkowicie, do naga."
+  },
+  {
+    "keyword": "Sarkazm",
+    "description": "Złośliwa ironia, szyderstwo."
+  },
+  {
+    "keyword": "Semantyka",
+    "description": "czyli opisywanie znaczenia słów, a zarazem trudne słowo które idealnie pasuje to tytułu."
+  },
+  {
+    "keyword": "Siermiężny",
+    "description": "Prosty, zgrzebny i nieefektowny."
+  },
+  {
+    "keyword": "Skonfundować",
+    "description": "Wprawić kogoś w konfuzję, zakłopotanie, zbić z tropu, zawstydzić, speszyć, zszokować."
+  },
+  {
+    "keyword": "Stochastyczne",
+    "description": "Przypadkowe, losowe."
+  },
+  {
+    "keyword": "Stygmatyzacja",
+    "description": "Jest to proces nadawania cech, norm i etykiet zachowania grupom i kategoriom społecznym oraz jednostkom, przez co przyjmują one te określenia i działają na ich zasadach, zostają w ten sposób naznaczone."
+  },
+  {
+    "keyword": "Subekumena",
+    "description": "Obszar powierzchni ziemi zamieszkiwany przez ludzi jedynie przez jakiś czas; paraekumena."
+  },
+  {
+    "keyword": "Survival",
+    "description": "Rodzaj rozrywki, sportu polegający na przebywaniu w ekstremalnych warunkach i wykonywaniu trudnych zadań fizycznych; surwiwal, szkoła przetrwania."
+  },
+  {
+    "keyword": "Synestezja",
+    "description": "Zdolność kojarzenia ze sobą wrażeń odbieranych przez różne zmysły, np. zapachów ze smakami, dźwięków z kolorami."
+  },
+  {
+    "keyword": "Terma",
+    "description": "Źródło wód termalnych lub odwiert, z którego takie wody wypływają; cieplica, gorące źródło."
+  },
+  {
+    "keyword": "Testament",
+    "description": "Dokument, w którym człowiek określa, co po jego śmierci należy zrobić z jego majątkiem."
+  },
+  {
+    "keyword": "Transcendentalny",
+    "description": "W filozofii: będący warunkiem poznania, odnoszący się do apriorycznych form poznania."
+  },
+  {
+    "keyword": "Transcendentny",
+    "description": "Istniejący na zewnątrz, poza zasięgiem naszych doświadczeń."
+  },
+  {
+    "keyword": "Transparentny",
+    "description": "Jasny, przejrzysty, przezroczysty."
+  },
+  {
+    "keyword": "Trywialne",
+    "description": "pospolite, banalne."
+  },
+  {
+    "keyword": "Trywialny",
+    "description": "Prostacki, pospolity, o odcieniu wulgarnym, banalny, nieodkrywczy, oczywisty. Na przykład trywialny dowcip, trywialne zachowanie, trywialny gust."
+  },
+  {
+    "keyword": "Tumiwisizm",
+    "description": "Postawa jednostki, cechująca się kompletną obojętnością, lekceważeniem w stosunku do spraw istotnych dla społeczeństwa, dla otoczenia, dla niej samej."
+  },
+  {
+    "keyword": "Turpizm",
+    "description": "Nurt w literaturze i sztuce, wyrażający się w szczególnym zainteresowaniu przedmiotami i zjawiskami nieestetycznymi; piękno brzydoty."
+  },
+  {
+    "keyword": "Vice versa",
+    "description": "Łac. na odwrót."
+  },
+  {
+    "keyword": "Wydedukować",
+    "description": "Dojść do pewnych wniosków metodą dedukcyjną."
+  },
+  {
+    "keyword": "Wyekstrahować",
+    "description": "Wyodrębnić poprzez poddanie procesowi ekstrakcji; oddzielić."
+  },
+  {
+    "keyword": "Wyimaginować",
+    "description": "Książkowo: wymyślić, wyobrazić sobie coś zgodnie z własną wolą, z własnym pragnieniem; wyfantazjować, uroić, wymarzyć."
+  },
+  {
+    "keyword": "Wykoncypowany – Wymyślony."
+  },
+  {
+    "keyword": "Wyrafinowany",
+    "description": "Skomplikowany, wymyślny lub reprezentujący wysoki poziom artystyczny lub techniczny."
+  },
+  {
+    "keyword": "Wysublimowany",
+    "description": "O wysokim poziomie artystycznym lub umysłowym; wzniosły, wyszukany."
+  },
+  {
+    "keyword": "Zbeletryzować",
+    "description": "Nadać tekstowi charakter powieści, noweli, opowiadania itp."
+  },
+  {
+    "keyword": "Zgrzebny",
+    "description": "Zrobiony z partu; parciany."
+  },
+  {
+    "keyword": "Zrzeszać",
+    "description": "Łączyć, jednoczyć."
+  }
+]

@@ -1,0 +1,81 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/widget_margin">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounder_corners_shape"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:padding="2dp"
+                android:src="@drawable/new_word_logo"/>
+
+            <TextView
+                android:id="@+id/appwidget_keyword"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:contentDescription="@string/appwidget_keyword"
+                android:text="@string/appwidget_keyword"
+                android:textColor="#f6f6f6"
+                android:textSize="24sp"
+                android:fontFamily="sans-serif"
+                android:textStyle="normal"/>
+
+            <ImageButton
+                android:id="@+id/refresh"
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="end"
+                android:background="#00FFFFFF"
+                android:tint="#f6f6f6"
+                android:src="@drawable/icons_refresh" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="#f6f6f6">
+
+            <TextView
+                android:id="@+id/appwidget_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:contentDescription="@string/appwidget_description"
+                android:text="@string/appwidget_description"
+                android:textColor="#424242"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/last_modified"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:contentDescription="@string/last_modified"
+                android:text="@string/last_modified"
+                android:textColor="#424242"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</FrameLayout>
