@@ -3,19 +3,15 @@ package pl.rafalpieniazek.newword;
 import android.app.PendingIntent;
 import android.appwidget.AppWidgetManager;
 import android.appwidget.AppWidgetProvider;
-import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
-import android.net.Uri;
 import android.widget.RemoteViews;
 import android.widget.Toast;
 
 import java.text.DateFormat;
-import java.util.ArrayList;
 import java.util.Date;
-import java.util.List;
 
-import pl.rafalpieniazek.newword.model.Element;
+import pl.rafalpieniazek.newword.model.FlashCard;
 
 /**
  * Implementation of App Widget functionality.
@@ -29,11 +25,11 @@ public class NewWordWidget extends AppWidgetProvider {
                 DateFormat.getTimeInstance(DateFormat.SHORT).format(new Date());
 
 
-        Element randomElement = NewWordService.getInstance(context).getNextRandomElement();
+        FlashCard randomFlashCard = FlashCardService.getInstance(context).getNextRandomElement();
 
         RemoteViews views = new RemoteViews(context.getPackageName(), R.layout.new_word_widget);
-        views.setTextViewText(R.id.appwidget_keyword, randomElement.getKeyword());
-        views.setTextViewText(R.id.appwidget_description, randomElement.getDescription());
+        views.setTextViewText(R.id.appwidget_keyword, randomFlashCard.getKeyword());
+        views.setTextViewText(R.id.appwidget_description, randomFlashCard.getDescription());
 
 
         //Create an Intent with the AppWidgetManager.ACTION_APPWIDGET_UPDATE action//
@@ -54,9 +50,6 @@ public class NewWordWidget extends AppWidgetProvider {
                 context.getResources().getString(
                         R.string.last_modified, timeString));
 
-//        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://code.tutsplus.com/"));
-//        PendingIntent pendingIntent = PendingIntent.getActivity(context, 0, intent, 0);
-//        views.setOnClickPendingIntent(R.id.launch_url, pendingIntent);
         appWidgetManager.updateAppWidget(appWidgetId, views);
     }
 

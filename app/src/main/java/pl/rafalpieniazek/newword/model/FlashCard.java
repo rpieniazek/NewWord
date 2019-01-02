@@ -4,11 +4,11 @@ package pl.rafalpieniazek.newword.model;
  * Created by rafalpieniazek on 25/09/2018.
  */
 
-public class Element {
+public class FlashCard {
     private String keyword;
     private String description;
 
-    public Element(String keyword, String description) {
+    public FlashCard(String keyword, String description) {
         this.keyword = keyword;
         this.description = description;
     }
